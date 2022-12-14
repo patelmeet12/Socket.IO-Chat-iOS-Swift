@@ -1,0 +1,6 @@
+framework module Pods_Socket_IO_iOS_Chat_Socket_IO_iOS_ChatUITests {
+  umbrella header "Pods-Socket.IO-iOS-Chat-Socket.IO-iOS-ChatUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
