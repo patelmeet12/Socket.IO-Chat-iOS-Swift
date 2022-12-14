@@ -1,4 +1,4 @@
-# Socket.IO_iOS_Chat
+# Socket.IO-Chat-iOS-Swift
 
 # Real time client-server communication with Socket.IO
 
